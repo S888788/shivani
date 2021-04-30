@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_text_share">Enter text to share</string>
+    <string name="share_text">Share Text</string>
+    <string name="share_image">Share Image</string>
+    <string name="share_video">Share Video</string>
+    <string name="enter_text">Please enter some text</string>
+    <string name="select_video">Select Video</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="choose_media_title">Tutorialwing | Share Using</string>
+    <string name="sharing_image">Tutorialwing | Sharing Image</string>
+    <string name="sharing_video">Tutorialwing | Sharing Video</string>
+</resources>
